@@ -219,7 +219,7 @@ class _TestPageWidgetState extends State<TestPageWidget> {
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .secondaryBackground,
-                                                size: 22,
+                                                size: 20,
                                               ),
                                             ),
                                           ),
@@ -298,7 +298,7 @@ class _TestPageWidgetState extends State<TestPageWidget> {
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .secondaryBackground,
-                                                size: 22,
+                                                size: 20,
                                               ),
                                             ),
                                           ),
@@ -377,7 +377,7 @@ class _TestPageWidgetState extends State<TestPageWidget> {
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .secondaryBackground,
-                                                size: 22,
+                                                size: 20,
                                               ),
                                             ),
                                           ),

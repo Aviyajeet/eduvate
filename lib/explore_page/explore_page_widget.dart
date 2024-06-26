@@ -1930,8 +1930,8 @@ class _ExplorePageWidgetState extends State<ExplorePageWidget> {
                                         padding: const EdgeInsetsDirectional
                                             .fromSTEB(0.0, 0.0, 0.0, 10.0),
                                         child: Container(
-                                          width: 80.0,
-                                          height: 80.0,
+                                          width: 70.0,
+                                          height: 70.0,
                                           decoration: BoxDecoration(
                                             image: DecorationImage(
                                               fit: BoxFit.cover,

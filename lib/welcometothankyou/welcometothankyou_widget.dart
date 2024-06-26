@@ -160,7 +160,7 @@ class _WelcometothankyouWidgetState extends State<WelcometothankyouWidget> {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Text(
-                            'Let\'s setup your ALLEN experience',
+                            'Let\'s setup your EduVate experience',
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
