@@ -92,7 +92,7 @@ class _BoardChangeWidgetState extends State<BoardChangeWidget> {
                   mainAxisSize: MainAxisSize.max,
                   children: [
                     Text(
-                      'Class',
+                      'Board',
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
                             fontFamily: 'Readex Pro',
                             color: FlutterFlowTheme.of(context)

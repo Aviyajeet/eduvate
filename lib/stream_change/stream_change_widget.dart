@@ -60,11 +60,10 @@ class _StreamChangeWidgetState extends State<StreamChangeWidget> {
               size: 30.0,
             ),
             onPressed: () async {
-             Navigator.push(
-                                        context,
-                                        MaterialPageRoute(
-                                            builder: (context) =>
-                                                ProgramsPageWidget()));
+              Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (context) => ProgramsPageWidget()));
             },
           ),
           title: Align(
@@ -94,7 +93,7 @@ class _StreamChangeWidgetState extends State<StreamChangeWidget> {
                   mainAxisSize: MainAxisSize.max,
                   children: [
                     Text(
-                      'Class',
+                      'Stream',
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
                             fontFamily: 'Readex Pro',
                             color: FlutterFlowTheme.of(context)
