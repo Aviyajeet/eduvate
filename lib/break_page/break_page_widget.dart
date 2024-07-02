@@ -1,5 +1,3 @@
-
-
 import '../menter_class/mentor_meets_widget.dart';
 import '../programs_page/programs_page_widget.dart';
 import '../whats_break_page/whats_break_page_widget.dart';
@@ -680,7 +678,7 @@ class _BreakPageWidgetState extends State<BreakPageWidget> {
                                     image: DecorationImage(
                                       fit: BoxFit.contain,
                                       image: Image.network(
-                                        'https://allen.peakmind.in/live',
+                                        'https://cdn.pixabay.com/photo/2015/07/19/10/00/school-work-851328_640.jpg',
                                       ).image,
                                     ),
                                     borderRadius: const BorderRadius.only(
